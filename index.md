@@ -1,46 +1,26 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Zejun Chen (Xavier)'s CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Zejun Chen (Xavier)
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+Email: <a href="mailto:zc344@cam.ac.uk">zc344@cam.ac.uk</a>
 </div>
 
 
-## Currently
+### Interests
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Compilers and optimizing compilers, hardware architecture and heterogeneous architecture computing. For part II dissertation I'm
+considering to pursue topics related to using additional information provided by ISA extensions (currently considering capabilities 
+provided by CHERI) to support automatic/implicit parallelization in heterogeneous devices (i.e. GPU or special purpose accelerators). 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021-2024`
+__Computer Science Tripos, Gonville & Caius College, Cambridge__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+- Current 2nd year student.
 
 ## Awards
 
