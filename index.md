@@ -9,9 +9,11 @@ Email: <a href="mailto:zc344@cam.ac.uk">zc344@cam.ac.uk</a>
 </div>
 
 
-### Interests
+## Interests
 
-Compilers and optimizing compilers, hardware architecture and heterogeneous architecture computing. For part II dissertation I'm
+Compilers and optimizing compilers, hardware architecture and heterogeneous architecture computing. 
+
+For part II dissertation I'm
 considering to pursue topics related to using additional information provided by ISA extensions (currently considering capabilities 
 provided by CHERI) to support automatic/implicit parallelization in heterogeneous devices (i.e. GPU or special purpose accelerators). 
 
@@ -22,12 +24,20 @@ __Computer Science Tripos, Gonville & Caius College, Cambridge__
 
 - Current 2nd year student.
 
-## Awards
+## Experiences & Achievements
 
-`2012`
-President, *Royal Society*, London, UK
+#### Internship
+`June-Sept 2021`
+__Intern at Honeywell Aerospace, Shanghai__
 
-Associate, *French Academy of Science*, Paris, France
+Interned at the mechanical design and engineering department.
+Automated the department’s administrative processes with Python. Created 30-40 hours
+of productivity savings per quarter.
+Conducted thermal characterization experiments for various critical materials used in
+aircraft in development.
+Developed standardised reparation procedures for aviation brake assemblies for client
+aircraft reparation company, currently servicing over 100 cargo jets per year.
+
 
 
 
