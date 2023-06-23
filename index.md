@@ -110,8 +110,10 @@ ___Citi-YMCA Youth for Causes_, Member of Executive Committee__
 Organized various activities (beach cleaning, street campaigns, etc.) to raise public
 awareness on issues with local marine ecology and marine environmental protection in
 coastal areas.
-<!-- ### Footer
 
-Last updated: May 2013 -->
+### Footer
+Last updated: June 2023
+
+<!-- ### Footer Last updated: May 2013 -->
 
 
