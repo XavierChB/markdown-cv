@@ -53,24 +53,23 @@ aircraft reparation company, currently servicing over 100 cargo jets per year.
 
 `June - Sept 2022`
 ___UROP Project: Optimizing Compilers-Automatic Parallelization_, University of Cambridge__
+
 Project Mentor: Prof. Timothy M. Jones
 
-Project scope: I worked under the <a href="https://github.com/CompArchCam/Janus/">JANUS</a> project,
-a "a same-ISA dynamic binary modification tool controlled through static analysis". 
+Project scope: Worked under the <a href="https://github.com/CompArchCam/Janus/">JANUS</a> project,
+a "same-ISA dynamic binary modification tool controlled through static analysis". 
 
-My job mostly consists of refactoring the static analysis component of the codebase using modern C++.
-
-I utilized the <a href="https://en.cppreference.com/w/cpp/language/constraints">"constraints"</a> features
+Utilized the <a href="https://en.cppreference.com/w/cpp/language/constraints">"constraints"</a> features
 introduced in C++20 to modularize existing, monolithic static analysis pipeline, while providing an
 elegant approach to express the dependency relations between analysis stages, and allow for easy future
 extensions. 
 
-I rewrote some of the pipelines to utilize the <a href="https://en.cppreference.com/w/cpp/memory">"smart pointers"</a>
+Rewrote some of the pipelines to utilize the <a href="https://en.cppreference.com/w/cpp/memory">"smart pointers"</a>
 introduced in C++11 to provide better memory-management to existing work, and eliminated many instances of
 memory leaks through this approach. 
 
-Furthermore, I implemented dataflow and liveness analysis using the refactored
-architecture, to showcase how additional static analysis can be incorporated in the future.
+Implemented dataflow and liveness analysis using the refactored architecture, to provide an example of static analysis
+extensions under the refactored structure. 
 
 GitHub link to the branch I worked in: <a href="https://github.com/CompArchCam/Janus/tree/refactor_redo">Janus refactor</a>
 
@@ -111,8 +110,8 @@ Organized various activities (beach cleaning, street campaigns, etc.) to raise p
 awareness on issues with local marine ecology and marine environmental protection in
 coastal areas.
 
-### Footer
-Last updated: June 2023
+### Last updated
+June 2023ast
 
 <!-- ### Footer Last updated: May 2013 -->
 
