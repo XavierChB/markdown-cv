@@ -73,6 +73,14 @@ extensions under the refactored structure.
 
 GitHub link to the branch I worked in: <a href="https://github.com/CompArchCam/Janus/tree/refactor_redo">Janus refactor</a>
 
+`July - Sept 2023`
+___UROP Project: TVM TensorCode Generation Benchmarks___
+
+Project Mentor: Dr. Eiko Yoneki
+
+Project scope: Wrote a set of benchmarks for TVM's evolutionary-search-based automatic scheduler,
+explored replacing the evolutionary search with Bayesian optimisation.
+
 `Jan - June 2021`
 ___Source Academy Project_, National University of Singapore__
 Project scope: ECMAScript subset implementation on various platforms for introductory
