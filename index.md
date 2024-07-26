@@ -32,7 +32,7 @@ Limited skills in HDL (proficient in subset of SystemVerilog taught in part IB c
 ## Experiences & Achievements
 
 ### Internship
-`June - Sept 2021`
+`Jun - Sep 2021`
 ___Intern_ at Honeywell Aerospace, Shanghai__
 
 Interned at the mechanical design and engineering department.
@@ -46,8 +46,8 @@ Developed standardized reparation procedures for aviation brake assemblies for c
 aircraft reparation company, currently servicing over 100 cargo jets per year.
 
 ### Projects
-`Oct 2023 - May 2024`
-___Undergraduate Dissertation Project: Invisible CHERI Capability___
+`Oct 23 - May 24`
+___Undergrad Dissertation Project: Invisible CHERI Capability___
 
 Project Mentor: Dr. Jonathan Woodruff
 
@@ -65,7 +65,7 @@ implemented new instructions for "sealing" in LLVM.
 
 Top 10% dissertation in the cohort.
 
-`July - Sept 2023`
+`Jul - Sep 23`
 ___UROP Project: TVM TensorCode Generation Benchmarks___
 
 Project Mentor: Dr. Eiko Yoneki
@@ -73,7 +73,7 @@ Project Mentor: Dr. Eiko Yoneki
 Project scope: Worked on a set of benchmarks for TVM's evolutionary-search-based automatic scheduler,
 explored replacing the evolutionary search with Bayesian optimisation.
 
-`June - Sept 2022`
+`Jun - Sep 22`
 ___UROP Project: Optimizing Compilers-Automatic Parallelization_, University of Cambridge__
 
 Project Mentor: Prof. Timothy M. Jones
@@ -95,7 +95,7 @@ extensions under the refactored structure.
 
 GitHub link to the branch I worked in: <a href="https://github.com/CompArchCam/Janus/tree/refactor_redo">Janus refactor</a>
 
-`Jan - June 2021`
+`Jan - Jun 21`
 ___Source Academy Project_, National University of Singapore__
 Project scope: ECMAScript subset implementation on various platforms for introductory
 functional programming course.
