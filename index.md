@@ -137,7 +137,7 @@ awareness on issues with local marine ecology and marine environmental protectio
 coastal areas.
 
 ### Last updated
-June 2023
+July 2024
 
 <!-- ### Footer Last updated: May 2013 -->
 
