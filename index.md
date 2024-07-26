@@ -50,6 +50,30 @@ Developed standardized reparation procedures for aviation brake assemblies for c
 aircraft reparation company, currently servicing over 100 cargo jets per year.
 
 ### Projects
+`Oct 2023 - May 2024`
+___Undergraduate Dissertation Project: Invisible CHERI Capability___
+
+Project Mentor: Dr. Jonathan Woodruff
+
+Project scope: Designed and implemented new semantics to CHERI-RISC-V ISA to compress existing
+CHERI capabilities to half its size, while retaining CHERI's safety guarantees.
+
+Researched and adapted "compressed" permissions format in CHERI capabilities, evaluated
+the effects of these changes using static and runtime profiles.
+
+Proposed novel solution to address semantical and syntactic changes required to compress the "object
+type" section of the CHERI capability while retaining the existing sealing syntax.
+
+Emulated hardware adaptation to the semantical changes proposed above by modifying the QEMU emulator,
+implemented new instructions for "sealing" in LLVM. 
+
+`July - Sept 2023`
+___UROP Project: TVM TensorCode Generation Benchmarks___
+
+Project Mentor: Dr. Eiko Yoneki
+
+Project scope: Worked on a set of benchmarks for TVM's evolutionary-search-based automatic scheduler,
+explored replacing the evolutionary search with Bayesian optimisation.
 
 `June - Sept 2022`
 ___UROP Project: Optimizing Compilers-Automatic Parallelization_, University of Cambridge__
@@ -72,14 +96,6 @@ Implemented dataflow and liveness analysis using the refactored architecture, to
 extensions under the refactored structure. 
 
 GitHub link to the branch I worked in: <a href="https://github.com/CompArchCam/Janus/tree/refactor_redo">Janus refactor</a>
-
-`July - Sept 2023`
-___UROP Project: TVM TensorCode Generation Benchmarks___
-
-Project Mentor: Dr. Eiko Yoneki
-
-Project scope: Wrote a set of benchmarks for TVM's evolutionary-search-based automatic scheduler,
-explored replacing the evolutionary search with Bayesian optimisation.
 
 `Jan - June 2021`
 ___Source Academy Project_, National University of Singapore__
