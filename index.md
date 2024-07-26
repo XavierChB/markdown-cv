@@ -65,7 +65,9 @@ Proposed novel solution to address semantical and syntactic changes required to 
 type" section of the CHERI capability while retaining the existing sealing syntax.
 
 Emulated hardware adaptation to the semantical changes proposed above by modifying the QEMU emulator,
-implemented new instructions for "sealing" in LLVM. 
+implemented new instructions for "sealing" in LLVM.
+
+Top 10% dissertation in the cohort.
 
 `July - Sept 2023`
 ___UROP Project: TVM TensorCode Generation Benchmarks___
