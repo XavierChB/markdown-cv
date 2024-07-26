@@ -13,25 +13,21 @@ Email: <a href="mailto:zc344@cam.ac.uk">zc344@cam.ac.uk</a>
 
 Compilers and optimizing compilers, hardware architecture and heterogeneous architecture computing. 
 
-For part II dissertation I'm
-considering to pursue topics related to using additional information provided by ISA extensions (currently considering capabilities 
-provided by CHERI) to support automatic/implicit parallelization in heterogeneous devices (i.e. GPU or special purpose accelerators). 
-
 ## Education
 
-`2021-2024`
+`2021-2025`
 __Computer Science Tripos, Gonville & Caius College, Cambridge__
 
-- Current 2nd year student.
+- Current 3rd year student.
 
 ## Skills
-Intermediate to good proficiency in C, C++ (in particular modern C++), Python, JS and OCaml.
+Intermediate to good proficiency in C, C++ (in particular modern C++), Python and OCaml.
 
-Daily driving Linux for more than 2 years, comfortable with various shell environments.
+Daily driving Linux for more than 3 years, comfortable with various shell environments.
 
 Happy VIMer, currently daily driving a heavily customized (Neo)vim setup.
 
-Limited skills in HDL (proficient in subset of SystemVerilog taught in part IB).
+Limited skills in HDL (proficient in subset of SystemVerilog taught in part IB course in Cambridge).
 
 ## Experiences & Achievements
 
@@ -56,7 +52,7 @@ ___Undergraduate Dissertation Project: Invisible CHERI Capability___
 Project Mentor: Dr. Jonathan Woodruff
 
 Project scope: Designed and implemented new semantics to CHERI-RISC-V ISA to compress existing
-CHERI capabilities to half its size, while retaining CHERI's safety guarantees.
+<a href="https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/">CHERI</a> capabilities to half its size, while retaining CHERI's safety guarantees.
 
 Researched and adapted "compressed" permissions format in CHERI capabilities, evaluated
 the effects of these changes using static and runtime profiles.
